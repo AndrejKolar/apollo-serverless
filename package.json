@@ -10,7 +10,7 @@
   "author": "Andrej Kolar <andrej.kolar@me.com>",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-lambda": "^2.6.1",
+    "apollo-server-lambda": "^2.14.2",
     "babel-polyfill": "^6.26.0",
     "dotenv": "^8.0.0",
     "graphql": "^14.3.1",
